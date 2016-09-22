@@ -1,6 +1,7 @@
 var
 media
-.sass-cacheapp/locale/pt_BR/Mage_GoogleCheckout.csv
+.sass-cache
+app/locale/pt_BR/Mage_GoogleCheckout.csv
 app/locale/pt_BR/Mage_Media.csv
 app/locale/pt_BR/Mage_Sendfriend.csv
 app/locale/pt_BR/Phoenix_Moneybookers.csv
